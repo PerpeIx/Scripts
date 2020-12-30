@@ -4,7 +4,7 @@ local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinl
 
 local X = Material.Load({
     Title = "A Universal Time",
-    Style = 2,
+    Style = 1,
     SizeX = 330,
     SizeY = 350,
     Theme = "Dark",
